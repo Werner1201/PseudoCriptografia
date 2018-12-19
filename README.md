@@ -1,3 +1,3 @@
-# cripto2.0
-criptografia basica em c, bom nem tanto
-se quiserem melhorar fiquem a vontade só se certifiquem que está funcionando corretamente e de acordo com a proposta
+# Cripto2.0
+PseudoCriptografia. Alguns testes Sobre meu conhecimento em C. 
+Adoraria que houvessem contribuições para melhorar e eu aprender mais sobre.
